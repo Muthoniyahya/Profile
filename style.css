@@ -267,25 +267,3 @@ hr{
     text-align: center;
     color: #E25D91;
 }
-#btnscrolltotop{
-    position: fixed;
-    right: 10px;
-    bottom: 10px;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    box-shadow:0,0,10px rgba(0,0,0,0.25) ;
-    background: #E25D91;
-    outline: none;
-    color: #ffff;
-    cursor: pointer;
-    border: none;
-}
-.material-icons{
-    padding-top: 24%;
-    align-items: center;
-}
-#btnscrolltotop :active{
-    background:rgba(0,0,0,0.0);
-   
-}
